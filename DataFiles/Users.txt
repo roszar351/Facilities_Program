@@ -1,0 +1,2 @@
+1,admin@yes.eu,pass,0
+2,user@no.eu,guest,1
